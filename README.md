@@ -5,12 +5,12 @@
 
 
 #### 🌱 I’m interested in solving algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogns0108)](https://solved.ac/wogns0108/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdwltn0204)](https://solved.ac/ghdwltn0204/)
 
 
 
 ####  🏆 My Stats: 🏆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghdwltn0204&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoohong&show_icons=true&theme=radical)
 </center>
 
 <!---
